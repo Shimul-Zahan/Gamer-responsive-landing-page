@@ -7,6 +7,10 @@
         flex-direction: column;
         gap: 20px;
     }
+    .nav-container{
+        background: none;
+        box-shadow: none;
+    }
     .banner{
         width: 90%;
     }

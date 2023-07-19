@@ -2,6 +2,10 @@
     header{
         width: 100%;
     }
+    .nav-container{
+        background: none;
+        box-shadow: none;
+    }
     nav{
         width: 80%;
         flex-direction: column;
