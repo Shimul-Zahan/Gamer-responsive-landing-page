@@ -286,6 +286,12 @@ main{
     font-family: Work Sans;
     font-size: 48px;
 }
+.play-instant{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .instant-play-desc p{
     width: 353px;
     color: #534C64;
