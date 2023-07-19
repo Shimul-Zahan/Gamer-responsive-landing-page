@@ -63,12 +63,13 @@
         width: 80%;
     }
     .instant-play-desc h1{
-        width: 600px;
+        width: 488px;
         text-align: center;
     }
     .instant-play-desc p{
-        width: 560px;
+        width: 488px;
         text-align: center;
+        margin-bottom: 20px;
     }
     .absolute-image {
         width: 14rem;
@@ -80,5 +81,12 @@
     }
     .right-reserve-part {
         font-size: 13px;
+    }
+    .footer-container{
+        padding: 40px 0;
+    }
+    .icon-part {
+        font-size: 30px;
+        gap: 50px;
     }
 }
