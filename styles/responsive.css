@@ -178,12 +178,14 @@
         width: 80%;
     }
     .games-type-part,
-    .icon-part,
     .right-reserve-part{
         flex-wrap: wrap;
         justify-content: center;
-        font-size: 10px;
+        font-size: 13px;
         
+    }
+    .icon-part{
+        font-size: 20px;
     }
     .copyright-part{
         max-width: 258px;
