@@ -1,0 +1,84 @@
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    header{
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .banner{
+        width: 90%;
+    }
+    .banner-desc{
+        width: 80%;
+    }
+    .banner-image{
+        width: 100%;
+    }
+    .goat-title{
+        font-size: 58px;
+    }
+    .banner-title{
+        font-size: 32px;
+    }
+    .we-are-gamer-container{
+        width: 80%;
+    }
+    .we-are-gamer-image{
+        width: 100%;
+    }
+    .we-are-gamer-image img{
+        width: 100%;
+    }
+    .we-are-gamer-flex{
+        flex-direction: column-reverse;
+    }
+    .we-are-gamer-desc{
+        text-align: center;
+    }
+
+    .online-games-container{
+        width: 80%;
+    }
+    .games-card img{
+        width: 100%;
+    }
+    .online-games-cards{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+    }
+    .instant-play-container{
+        width: 80%;
+        flex-direction: column;
+    }
+    .instant-play-image{
+        width: 80%;
+    }
+    .instant-play-image img{
+        width: 100%;
+    }
+    .instant-play-desc{
+        width: 80%;
+    }
+    .instant-play-desc h1{
+        width: 600px;
+        text-align: center;
+    }
+    .instant-play-desc p{
+        width: 560px;
+        text-align: center;
+    }
+    .absolute-image {
+        width: 14rem;
+        left: -17%;
+        bottom: 6%;
+    }
+    .games-type-part {
+        font-size: 12px;
+    }
+    .right-reserve-part {
+        font-size: 13px;
+    }
+}

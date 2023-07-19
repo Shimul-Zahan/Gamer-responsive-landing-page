@@ -79,10 +79,10 @@ nav ul li a{
     display: flex;
     justify-content: center;
     align-items: center;
-    grid-area: 60px;
 }
 .follow-us-btn i{
     font-size: 20px;
+
 }
 .follow-us-btn i:nth-child(2){
     color: red;
